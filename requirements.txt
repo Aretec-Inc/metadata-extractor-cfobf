@@ -1,5 +1,4 @@
 functions-framework==3.*
-pyarmor
 PyPDF2
 vertexai
 google-cloud-storage
